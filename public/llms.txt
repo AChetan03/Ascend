@@ -1,0 +1,9 @@
+# Ascend
+
+> AI-powered career advisor. Upload your resume and get a personalized career roadmap — skill gaps, market insights, learning plan, and interview prep.
+
+Ascend uses seven collaborating AI agents (Resume Analysis, Profile, Market Intelligence, Skill Gap, Learning Recommendations, Career Strategy, and Roadmap) to turn a single resume upload into a comprehensive career report.
+
+## Pages
+
+- [Home](/): Product overview and how the seven agents work together.

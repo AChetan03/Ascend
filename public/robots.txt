@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+
+Disallow: /auth
+Disallow: /dashboard
+Disallow: /analyses/
+Disallow: /.mcp/
+Disallow: /.lovable/
+Disallow: /.well-known/
+
+Sitemap: https://ascendwithai.lovable.app/sitemap.xml
